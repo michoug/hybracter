@@ -12,3 +12,4 @@ dependencies:
   - jinja2>=3.0.2
   - biopython>=1.76
   - attrmap >=0.0.5
+  - snakemake-executor-plugin-slurm >= 1.8.0
